@@ -1,0 +1,99 @@
+body{
+    background-image: url("BG.jpeg");
+    /*Background Image Source ->
+    Papers of the Australian Lebanese Historical Society at the National Library of Australia by Paul Convy, April, 2017.
+    https://alhs.org.au/collection/*/
+    background-color: #fff0cb;
+    overflow-x: hidden;
+
+
+
+}
+
+.wrapper{
+    margin-top: 5em;
+
+}
+
+.headerRow{
+    padding: 1em;
+    font-weight: bold;
+}
+
+
+
+.LbryTop{
+
+    color: white;
+    background-color: #790000;
+    margin-bottom: 0;
+    font-size: x-large;
+    padding: 0.5em;
+    font-weight: bold;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+
+}
+.LbryBtm{
+
+
+    color: black;
+    background-color: white;
+    margin-top: 0;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    padding: 0.25em;
+
+
+}
+
+.addArea{
+    background-color: #fff0cb;
+}
+
+.bookShelf{
+    height: fit-content;
+    max-height: 1000px;
+    overflow-x: hidden;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.top-card{
+    background-color: #790000;
+}
+
+.favorite{
+    background-color: #ffc107;
+}
+
+.my-card{
+    width: 300px;
+    height: 280px;
+}
+
+.addBookForm{
+    padding: 5px;
+}
+
+.cardInfo:hover {
+    color: #66bb6a;
+}
+
+.completed {
+    background-color: #696969;
+}
+
+.searchBar{
+    padding: 10px;
+}
+
+.sortBtn{
+    width: 100px;
+}
+
+
